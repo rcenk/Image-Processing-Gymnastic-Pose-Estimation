@@ -1,5 +1,5 @@
 # Openpose-Gymnastic
-Detecting gymnastic movements
+The program that determines the accuracy of the gymnastic movements developed to facilitate the work of the referees.
 
 # How does it work?
 
