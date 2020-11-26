@@ -47,12 +47,12 @@ setuptools.setup(
     name='tf-pose',
     version=_VERSION,
     description=
-    'Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.',
+    'The program that determines the accuracy of the gymnastic movements developed to facilitate the work of the referees.',
     install_requires=REQUIRED_PACKAGES,
     dependency_links=DEPENDENCY_LINKS,
-    url='https://github.com/ildoonet/tf-pose-estimation/',
-    author='Ildoo Kim',
-    author_email='ildoo@ildoo.net',
+    url='https://github.com/rcenk/Openpose-Gymnastic.git',
+    author='Remzi Cenk BOZTEPE',
+    author_email='brancoishere@gmail.com',
     license='Apache License 2.0',
     package_dir={'tf_pose_data': 'models'},
     packages=['tf_pose_data'] +
